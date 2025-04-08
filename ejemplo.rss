@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>El Diario Montañés</title>
+        <link>https://www.eldiariomontanes.es/</link>
+        <description>Últimas noticias y actualizaciones de Cantabria.</description>
+        <language>es-es</language>
+        <item>
+            <title>Noticia destacada 1</title>
+            <link>https://www.eldiariomontanes.es/cantabria/maniobra-aterrizaje-frustrado-seve-ballesteros-peligroso-habitual-20250408134928-nt.html</link>
+            <description>Descripción breve de la noticia destacada 1.</description>
+            <pubDate>Tue, 08 Apr 2025 12:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Noticia destacada 2</title>
+            <link>https://www.eldiariomontanes.es/sociedad/salud/nueva-ley-medicamento-permitira-enfermeras-prescribir-20250408131557-ntrc.html</link>
+            <description>Descripción breve de la noticia destacada 2.</description>
+            <pubDate>Tue, 08 Apr 2025 14:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>
