@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const rssUrl = "https://tusitio.com/archivo_prueba.rss"; // Cambia por la URL de tu RSS
+  const rssUrl = "ejemplo.rss"; // Cambia por la URL de tu RSS
   const feedContainer = document.getElementById("rss-feed");
 
   fetch(rssUrl)
