@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const rssUrl = "ejemplo.rss"; // Cambia por la URL de tu RSS
+  const rssUrl = "https://y3etlex.github.io/PaginaWeb/ejemplo.rss"; // Cambia por la URL de tu RSS
   const feedContainer = document.getElementById("rss-feed");
 
   fetch(rssUrl)
